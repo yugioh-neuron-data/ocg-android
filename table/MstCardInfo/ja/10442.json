@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 10442,
+  "card_name": "熱血指導王ジャイアントレーナー",
+  "card_name_label": "ねっけつしどうおうジャイアントレーナー",
+  "card_name_search": "ねっけつしどうおうじゃいあんとれーなー",
+  "card_pen_effect": "",
+  "card_text": "レベル８モンスター×３$Nこのカード名の効果は１ターンに３度まで使用でき、この効果を発動するターン、自分はバトルフェイズを行えない。$N①：このカードのX素材を１つ取り除いて発動できる。自分は１枚ドローし、お互いに確認する。それがモンスターだった場合、さらに相手に８００ダメージを与える。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/21",
+  "species_id": 15,
+  "starchip": "8"
+}
