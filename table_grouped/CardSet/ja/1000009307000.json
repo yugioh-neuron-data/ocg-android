@@ -1,0 +1,290 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4580,
+    "card_image_id": 1,
+    "card_number": "24EP-JP201",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4580,
+    "card_image_id": 1,
+    "card_number": "24EP-JP201",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 4842,
+    "card_image_id": 1,
+    "card_number": "24EP-JP210",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4842,
+    "card_image_id": 1,
+    "card_number": "24EP-JP210",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 4860,
+    "card_image_id": 1,
+    "card_number": "24EP-JP211",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4860,
+    "card_image_id": 1,
+    "card_number": "24EP-JP211",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 5005,
+    "card_image_id": 1,
+    "card_number": "24EP-JP213",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5005,
+    "card_image_id": 1,
+    "card_number": "24EP-JP213",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 5914,
+    "card_image_id": 1,
+    "card_number": "24EP-JP214",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5914,
+    "card_image_id": 1,
+    "card_number": "24EP-JP214",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 7849,
+    "card_image_id": 1,
+    "card_number": "24EP-JP202",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7849,
+    "card_image_id": 1,
+    "card_number": "24EP-JP202",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 7898,
+    "card_image_id": 1,
+    "card_number": "24EP-JP206",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7898,
+    "card_image_id": 1,
+    "card_number": "24EP-JP206",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 8213,
+    "card_image_id": 1,
+    "card_number": "24EP-JP212",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8213,
+    "card_image_id": 1,
+    "card_number": "24EP-JP212",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 10029,
+    "card_image_id": 1,
+    "card_number": "24EP-JP203",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10029,
+    "card_image_id": 1,
+    "card_number": "24EP-JP203",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 10461,
+    "card_image_id": 1,
+    "card_number": "24EP-JP207",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10461,
+    "card_image_id": 1,
+    "card_number": "24EP-JP207",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 11180,
+    "card_image_id": 1,
+    "card_number": "24EP-JP215",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11180,
+    "card_image_id": 1,
+    "card_number": "24EP-JP215",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 12082,
+    "card_image_id": 1,
+    "card_number": "24EP-JP216",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12082,
+    "card_image_id": 1,
+    "card_number": "24EP-JP216",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 12956,
+    "card_image_id": 1,
+    "card_number": "24EP-JP208",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12956,
+    "card_image_id": 1,
+    "card_number": "24EP-JP208",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 13032,
+    "card_image_id": 1,
+    "card_number": "24EP-JP204",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13032,
+    "card_image_id": 1,
+    "card_number": "24EP-JP204",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 13599,
+    "card_image_id": 1,
+    "card_number": "24EP-JP209",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13599,
+    "card_image_id": 1,
+    "card_number": "24EP-JP209",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 14223,
+    "card_image_id": 1,
+    "card_number": "24EP-JP205",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14223,
+    "card_image_id": 1,
+    "card_number": "24EP-JP205",
+    "language": "ja",
+    "pack_id": "1000009307000",
+    "rarity_id": 9
+  }
+]

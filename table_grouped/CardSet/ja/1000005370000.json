@@ -1,0 +1,101 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4664,
+    "card_image_id": 1,
+    "card_number": "24TP-JP310",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 9332,
+    "card_image_id": 1,
+    "card_number": "24TP-JP302",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 12
+  },
+  {
+    "card_count": 1,
+    "card_id": 9341,
+    "card_image_id": 1,
+    "card_number": "24TP-JP308",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 9657,
+    "card_image_id": 1,
+    "card_number": "24TP-JP305",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 10257,
+    "card_image_id": 1,
+    "card_number": "24TP-JP304",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 10520,
+    "card_image_id": 1,
+    "card_number": "24TP-JP311",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 43
+  },
+  {
+    "card_count": 1,
+    "card_id": 14489,
+    "card_image_id": 1,
+    "card_number": "24TP-JP306",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 14503,
+    "card_image_id": 1,
+    "card_number": "24TP-JP309",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 15020,
+    "card_image_id": 1,
+    "card_number": "24TP-JP303",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 16631,
+    "card_image_id": 1,
+    "card_number": "24TP-JP307",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 20476,
+    "card_image_id": 1,
+    "card_number": "24TP-JP301",
+    "language": "ja",
+    "pack_id": "1000005370000",
+    "rarity_id": 12
+  }
+]
